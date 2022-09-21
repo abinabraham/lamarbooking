@@ -1,7 +1,7 @@
 <template>
   <section>
     <div v-if="isFiltering && filteredHotels.length === 0">
-      <p>Aradığınız kriterlerde bir hotel bulunamadı.</p>
+      <p>Sorry No Data Available</p>
     </div>
     <div v-else>
     <HotelCard
