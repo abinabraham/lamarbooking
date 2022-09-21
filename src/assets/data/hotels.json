@@ -9,8 +9,8 @@
       "subway_access": true,
       "distance_from_center": 5.6,
       "coordinates": {
-        "lat": "48.87171698",
-        "long": "2.34947227"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "065465165",
@@ -67,8 +67,8 @@
       "subway_access": true,
       "distance_from_center": 2.7,
       "coordinates": {
-        "lat": "48.87951465",
-        "long": "2.33920880"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "065465165",
@@ -123,8 +123,8 @@
       "subway_access": false,
       "distance_from_center": 1.5,
       "coordinates": {
-        "lat": "31.62846151",
-        "long": "-7.98530370"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "22222222",
@@ -179,8 +179,8 @@
       "subway_access": false,
       "distance_from_center": 0.6,
       "coordinates": {
-        "lat": "31.63335696",
-        "long": "-8.00009206"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "+4554554545",
@@ -234,8 +234,8 @@
       "subway_access": false,
       "distance_from_center": 15,
       "coordinates": {
-        "lat": "35.54794630",
-        "long": "139.74853870"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "+352929594",
@@ -291,8 +291,8 @@
       "subway_access": true,
       "distance_from_center": 3.5,
       "coordinates": {
-        "lat": "35.65627504",
-        "long": "139.74078611"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "+489249842",
@@ -349,8 +349,8 @@
       "subway_access": false,
       "distance_from_center": 1.5,
       "coordinates": {
-        "lat": "25.21636556",
-        "long": "-76.25780940"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "+959529529",
@@ -403,8 +403,8 @@
       "subway_access": false,
       "distance_from_center": 2.7,
       "coordinates": {
-        "lat": "24.05916859",
-        "long": "-74.53689873"
+        "lat": "25.069872",
+        "long": "55.172516"
       }
     },
     "phone": "+952892625",
