@@ -141,7 +141,7 @@
               <small v-if="!$v.form.adultCount.minValue && $v.form.adultCount.$dirty" class="text-danger">Choose the number of adult visitors</small>
             </b-form-group>
             
-            <!-- Bed sizes -->
+            <!-- Event sizes -->
             <b-form-group label="Ticket Type" label-class="font-weight-bold">
               <div class="d-flex flex-wrap gap-0h">
                 <div 
@@ -162,11 +162,11 @@
                       class="custom-radio__icon font-1h"
                       :class="bedSizeIcons[bedSize]"
                     ></i>
-                    {{ bedSize | capitalize }} Size
+                    {{ bedSize | capitalize }}-Type
                   </label>
                 </div>
               </div>
-              <small v-if="!$v.form.bedSize.required && $v.form.bedSize.$dirty" class="text-danger">Choose a bed size</small>
+              <small v-if="!$v.form.bedSize.required && $v.form.bedSize.$dirty" class="text-danger">Choose a event type</small>
             </b-form-group>
 
             <!-- Included -->
