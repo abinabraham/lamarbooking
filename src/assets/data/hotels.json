@@ -15,9 +15,9 @@
     },
     "phone": "065465165",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -73,9 +73,9 @@
     },
     "phone": "065465165",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -129,9 +129,9 @@
     },
     "phone": "22222222",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -185,8 +185,9 @@
     },
     "phone": "+4554554545",
     "bed_sizes": [
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -240,9 +241,9 @@
     },
     "phone": "+352929594",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -297,9 +298,9 @@
     },
     "phone": "+489249842",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -355,8 +356,9 @@
     },
     "phone": "+959529529",
     "bed_sizes": [
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",
@@ -409,9 +411,9 @@
     },
     "phone": "+952892625",
     "bed_sizes": [
-      "king",
-      "queen",
-      "normal"
+      "Banquet",
+      "Conference",
+      "Meeting"
     ],
     "included": [
       "breakfast",

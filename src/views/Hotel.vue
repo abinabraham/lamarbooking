@@ -142,7 +142,7 @@
             </b-form-group>
             
             <!-- Event sizes -->
-            <b-form-group label="Ticket Type" label-class="font-weight-bold">
+            <b-form-group label="Event Type" label-class="font-weight-bold">
               <div class="d-flex flex-wrap gap-0h">
                 <div 
                   v-for="bedSize, i in hotel.bed_sizes"
