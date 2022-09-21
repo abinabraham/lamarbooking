@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Hôtel l'Echiquier Opéra Paris",
+    "name": "Hotel1",
     "location": {
-      "country": "France",
-      "city": "Paris",
-      "addr": "38 rue de l' Echiquier, 10th arr., 75010",
+      "country": "UAE",
+      "city": "Dubai",
+      "addr": "38 Business Bay 75010",
       "subway_access": true,
       "distance_from_center": 5.6,
       "coordinates": {
@@ -54,15 +54,15 @@
       "accesible",
       "no smoke"
     ],
-    "desc": "Hôtel l'Echiquier Opéra Paris offers luxury accommodations in the heart of Paris, 271 m from Bonne Nouvelle Metro Station. You can relax with a drink from the on-site bar. \nHôtel l'Echiquier Opéra Paris - MGallery features spacious guest rooms equipped with a private bathroom, satellite TV and tea and coffee making facilities. Guests have access to free Wi-Fi. \nThe hotel offers you the opportunity to enjoy the Paris cultural scene with its close proximity to some of the main tourist attractions, such as Opéra Garnier, Montmartre, Georges Pompidou Center, Eiffel Tower and Louver Museum. \nThis is our guests' favorite part of Paris, according to independent reviews.",
+    "desc": "Hotel1 offers luxury accommodations in the heart of Paris, 271 m from Bonne Nouvelle Metro Station. You can relax with a drink from the on-site bar. \nHôtel l'Echiquier Opéra Paris - MGallery features spacious guest rooms equipped with a private bathroom, satellite TV and tea and coffee making facilities. Guests have access to free Wi-Fi. \nThe hotel offers you the opportunity to enjoy the Paris cultural scene with its close proximity to some of the main tourist attractions, such as Opéra Garnier, Montmartre, Georges Pompidou Center, Eiffel Tower and Louver Museum. \nThis is our guests' favorite part of Paris, according to independent reviews.",
     "img": "59710428"
   },
   {
     "id": 2,
     "name": "Hotel Sacha",
     "location": {
-      "country": "France",
-      "city": "Paris",
+      "country": "UAE",
+      "city": "Abu Dabi",
       "addr": "7 rue de Navarin, 9th arr., 75009 ",
       "subway_access": true,
       "distance_from_center": 2.7,
@@ -117,8 +117,8 @@
     "id": 3,
     "name": "Riad Azzar",
     "location": {
-      "country": "Morocco",
-      "city": "Marrakesh",
+      "country": "UAE",
+      "city": "Sharjah",
       "addr": "94 Derb Moulay Abdelkader Derb Dabachi, Medina, 40000",
       "subway_access": false,
       "distance_from_center": 1.5,
@@ -127,7 +127,7 @@
         "long": "-7.98530370"
       }
     },
-    "phone": "+452292952",
+    "phone": "22222222",
     "bed_sizes": [
       "king",
       "queen",
@@ -173,9 +173,9 @@
     "id": 4,
     "name": "Riad Zamzam",
     "location": {
-      "country": "Morocco",
-      "city": "Marrakesh",
-      "addr": "107 rue Kaa El Machraa Marrakech 40000",
+      "country": "UAE",
+      "city": "DUbai",
+      "addr": "23 hjf 234234",
       "subway_access": false,
       "distance_from_center": 0.6,
       "coordinates": {
@@ -183,7 +183,7 @@
         "long": "-8.00009206"
       }
     },
-    "phone": "+454589259",
+    "phone": "+4554554545",
     "bed_sizes": [
       "queen",
       "normal"
@@ -226,11 +226,11 @@
   },
   {
     "id": 5,
-    "name": "Theatel Haneda",
+    "name": "Kempinsky",
     "location": {
-      "country": "Japan",
-      "city": "Tokyo",
-      "addr": "144-0043 Tokyo-to, Ota-ku Haneda 5-23-7",
+      "country": "India",
+      "city": "Delhi",
+      "addr": "144-0043 Delhi 5-23-7",
       "subway_access": false,
       "distance_from_center": 15,
       "coordinates": {
@@ -283,11 +283,11 @@
   },
   {
     "id": 6,
-    "name": "Azabu Ten Tokyo",
+    "name": "Taj Ivanat",
     "location": {
-      "country": "Japan",
-      "city": "Tokyo",
-      "addr": "106-0044 Tokyo-to, Minato-ku Higashiazabu 2-26-8",
+      "country": "India",
+      "city": "Delhi",
+      "addr": "106-0044 Delhi 2-26-8",
       "subway_access": true,
       "distance_from_center": 3.5,
       "coordinates": {
@@ -336,14 +336,14 @@
       "no smoke",
       "accesible"
     ],
-    "desc": "Boasting a garden, Azabu Ten Tokyo is located in Tokyo in the Tokyo-to region, 801 m from Kimichan Statue and less than 0.6 mi from Tokyo Tower. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. The hotel has family rooms.\nAt the hotel rooms are fitted with air conditioning, a seating area, a flat-screen TV with cable channels, a safety deposit box and a private bathroom with a hot tub, slippers and a hairdryer. At Azabu Ten Tokyo the rooms come with bed linen and towels.\nAt the accommodations guests are welcome to take advantage of a hot tub.\nPopular points of interest near Azabu Ten Tokyo include Juban Inari Shrine, Daiho-ji Temple and Kenso-ji Temple. The nearest airport is Tokyo Haneda International Airport, 6.8 mi from the hotel.",
+    "desc": "Taj is located in Tokyo in the Tokyo-to region, 801 m from Kimichan Statue and less than 0.6 mi from Tokyo Tower. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. The hotel has family rooms.\nAt the hotel rooms are fitted with air conditioning, a seating area, a flat-screen TV with cable channels, a safety deposit box and a private bathroom with a hot tub, slippers and a hairdryer. At Azabu Ten Tokyo the rooms come with bed linen and towels.\nAt the accommodations guests are welcome to take advantage of a hot tub.\nPopular points of interest near Azabu Ten Tokyo include Juban Inari Shrine, Daiho-ji Temple and Kenso-ji Temple. The nearest airport is Tokyo Haneda International Airport, 6.8 mi from the hotel.",
     "img": "309241470"
   },
   {
     "id": 7,
     "name": "Villa Allamanda",
     "location": {
-      "country": "Bahamas",
+      "country": "India",
       "city": "Governorʼs Harbour",
       "addr": "Cigatoo Estates",
       "subway_access": false,
@@ -397,8 +397,8 @@
     "id": 8,
     "name": "The Sands Hotel",
     "location": {
-      "country": "Bahamas",
-      "city": "Cockburn Town",
+      "country": "UAE",
+      "city": "Dubai",
       "addr": "",
       "subway_access": false,
       "distance_from_center": 2.7,
