@@ -60,14 +60,14 @@
       </b-form-invalid-feedback>
     </b-form-group>
 
-    <b-form-group label="Hes Code">
+    <b-form-group label="EMirates ID">
       <b-form-input
         v-model="$v.form.hes_code.$model"
         name="hes_code"
         :state="validateState('form.hes_code')"
       ></b-form-input>
       <b-form-invalid-feedback>
-        This is a required field and must be a valid HES code. e.g. A1B2-1234-12
+        This is a required field and must be a valid Unique ID code. e.g. A1B2-1234-12
       </b-form-invalid-feedback>
     </b-form-group>
 
